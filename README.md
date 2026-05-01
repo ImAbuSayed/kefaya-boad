@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا نور قلبي في سكون الليل
+> أين أنت؟ فالشوق طويل
+> روحي تنادي والقلب يميل
+> حبك في دمي ليس له مثيل
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
